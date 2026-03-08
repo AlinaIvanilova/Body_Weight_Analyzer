@@ -1,0 +1,31 @@
+# Тимчасові файли Ruby
+
+*.log
+*.tmp
+*.swp
+
+# Bundler
+
+.bundle/
+
+# Встановлені gems
+
+vendor/bundle/
+
+# Файли середовища
+
+.env
+
+# Системні файли
+
+.DS_Store
+Thumbs.db
+
+# Папки IDE
+
+.idea/
+.vscode/
+
+# Файл з особистими даними (вага)
+
+data/weights.json
